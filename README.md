@@ -6,4 +6,4 @@ uploading a file, fetching it with curl and removing the file.
 Also hooks into the deploy.post trigger.
 
 # Maintainer(s)
-* Gerard van Helden <gerard@zicht.nl>
+* Oskar van Velden <oskar@zicht.nl>
